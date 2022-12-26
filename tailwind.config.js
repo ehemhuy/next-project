@@ -6,6 +6,9 @@ module.exports = {
     './ui/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
+    borderWidth: {
+      1: '1px',
+    },
     extend: {
       // https://vercel.com/design/color
       colors: {
