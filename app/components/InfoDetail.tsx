@@ -14,6 +14,13 @@ export default function InfoDetail() {
         - Skills: React, Javascript, Typescript, C# .Net, Nestjs, Nextjs,
         MongoDB, MySQL, Elasticsearch, Kafka, Teamwork, Code review...
       </p>
+      <a
+        href="https://www.topcv.vn/xem-cv/UwVQVQFRCgECBwAGBQcLUQ1ZUFwFBlNQAlABAg6640"
+        target={'_blank'}
+        className="hover:underline"
+      >
+        View my CV
+      </a>
     </div>
   );
 }
