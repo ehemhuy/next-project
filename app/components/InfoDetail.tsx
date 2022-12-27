@@ -9,7 +9,7 @@ export default function InfoDetail() {
         - Fullname: Phạm Quang Huy.
       </p>
       <p className="font-mono text-[16px] font-bold sm:text-[28px]">
-        DOB: 10/06/1999.
+        - DOB: 10/06/1999.
       </p>
       <p className="font-mono text-[16px] font-bold sm:text-[28px]">
         - Position: Fullstack Developer in MISAJSC from Aug 2020.
