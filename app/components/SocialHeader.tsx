@@ -5,7 +5,7 @@ import LinkedInIcon from 'app/icons/LinkedInIcon';
 
 export default function SocialHeader() {
   return (
-    <div className="ml-auto flex cursor-pointer items-center justify-between gap-4">
+    <div className="ml-auto flex cursor-pointer items-center justify-between gap-1 sm:gap-4">
       <a
         className="rounded-md p-1 hover:bg-slate-200"
         href="https://github.com/ehemhuy/"

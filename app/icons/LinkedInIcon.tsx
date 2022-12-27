@@ -1,7 +1,7 @@
 export default function LinkedInIcon() {
   return (
     <svg
-      className="h-9 w-9"
+      className="h-6 w-6 sm:h-9 sm:w-9"
       stroke="currentColor"
       fill="currentColor"
       stroke-width="0"
